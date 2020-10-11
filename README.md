@@ -1,12 +1,24 @@
 # fastapi-example
 Fast API example
 
+https://fastapi.tiangolo.com/project-generation/
+https://github.com/tiangolo/full-stack-fastapi-postgresq
+
+TODO:
+* docker
+* docker 
+
 ## Run
 
 `run.sh`
 
 ### Example routes
 
+## Database
+
+
+
+## Frontend
 
 
 ## Config
